@@ -27,7 +27,7 @@ const About = () => {
 
                     <div id='about-info-box' className="w-1/2 p-8 max-md:p-3 flex max-md:w-full max-md:items-center">
                         <div id="info-text" className='xl:w-1/2 max-xl:w-full h-full tracking-wider'>
-                            Hi there!👋🏻 I'm Shubham, a passionate <span className='font-bold underline underline-offset-4'>Full Stack Web Developer</span> specializing in MERN technologies.<br></br> With over 2 years of professional experience, I've honed my skills in creating seamless, responsive web applications that prioritize both functionality and user experience.<br></br> Whether it's building dynamic interfaces or architecting efficient backends, I'm dedicated to turning ideas into impactful, real-world solutions.<br></br> Let's connect and bring your next project to life!❤️
+                            Hi there!👋🏻 I'm Shubham, a passionate <span className='font-bold underline underline-offset-4'>Full Stack Web Developer</span> specializing in MERN technologies.<br></br> With over 3 years of professional experience, I've honed my skills in creating seamless, responsive web applications that prioritize both functionality and user experience.<br></br> Whether it's building dynamic interfaces or architecting efficient backends, I'm dedicated to turning ideas into impactful, real-world solutions.<br></br> Let's connect and bring your next project to life!
                         </div>
                     </div>
                 </div>
